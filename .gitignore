@@ -2,3 +2,4 @@
 [Bb]in/
 /packages
 /.vs
+/nupkg/push.ps1
