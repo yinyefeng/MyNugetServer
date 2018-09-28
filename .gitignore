@@ -3,3 +3,4 @@
 /packages
 /.vs
 /nupkg/push.ps1
+/src/MyNugetServer/MyNugetServer.csproj.user
